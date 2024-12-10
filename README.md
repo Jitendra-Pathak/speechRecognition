@@ -15,5 +15,5 @@ source venv/bin/activate
 # Install dependencies from requirements.txt
 pip install -r requirements.txt
 
-# Deactivate the Virtual Environment
+## Deactivate the Virtual Environment
 deactivate
